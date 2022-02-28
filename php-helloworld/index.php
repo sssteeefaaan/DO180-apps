@@ -10,9 +10,7 @@
 
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <title>HTML 5 Boilerplate</title>
-
-    <link rel="stylesheet" href="style.css">
+    <title>Zdravo svete</title>
 
   </head>
 
