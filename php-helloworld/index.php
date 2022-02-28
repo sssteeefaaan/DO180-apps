@@ -14,7 +14,7 @@
 
   </head>
 
-  <body>
+  <body style="background-color: yellow; text-color: purple; color: purple;">
 
 	<h1 style="text-align: center">Zdravo Softversko!</h1>
 	<?php print "Winter is passing!\n";?>
