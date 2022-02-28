@@ -14,7 +14,7 @@
 
   </head>
 
-  <body style="background-color: yellow; text-color: purple; color: purple;">
+  <body style="background-color: #4B0082; text-color: yellow; color: yellow;">
 
 	<h1 style="text-align: center">Zdravo Marko!</h1>
 	<h5 style="text-align: center">Ovde je uloženo malo više truda :P</h5>
